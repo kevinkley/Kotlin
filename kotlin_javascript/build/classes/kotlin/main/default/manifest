@@ -1,0 +1,10 @@
+abi_version=1.7.0
+builtins_platform=JS
+compiler_version=1.8.21
+depends=kotlin
+ir_version=1.0.0
+jsOutputName=kotlin_Javascript
+metadata_version=1.4.1
+serializedIrFileFingerprints=SerializedIrFileFingerprint(fileFingerprint\=2jw0ekukzant3.3eti0wz6w7yeg)
+serializedKlibFingerprint=17m4djazg2vqn.34tjnmxv1zj6k
+unique_name=me.kevin\:kotlin_Javascript
