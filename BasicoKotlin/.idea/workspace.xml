@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94594a8d-13bf-48e6-b5b5-d43e45851252" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="module-info" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2RxG6ntZvbl9kzoCMpHQ095usio" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/kevin/Documentos/GITHUB/Kotlin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/ClasseModificadoresAcesso" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/ClasseNestead(Aninhada)" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="Classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Operador_SafeNavigationKt">
+    <configuration name="CalculadoraKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projetoUsandolasses.CalculadoraKt" />
+      <module name="BasicoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operador_DoubleBangKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores_de_Error.Operador_DoubleBangKt" />
+      <module name="BasicoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operador_Elvis_ktKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores_de_Error.Operador_Elvis_ktKt" />
+      <module name="BasicoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operador_SafeCallKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores_de_Error.Operador_SafeCallKt" />
+      <module name="BasicoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operador_SafeNavigationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores_de_Error.Operador_SafeNavigationKt" />
+      <module name="BasicoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Operador_SafeNavigationKt" />
+        <item itemvalue="Kotlin.Operador_DoubleBangKt" />
+        <item itemvalue="Kotlin.Operador_SafeCallKt" />
+        <item itemvalue="Kotlin.Operador_Elvis_ktKt" />
+        <item itemvalue="Kotlin.CalculadoraKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94594a8d-13bf-48e6-b5b5-d43e45851252" name="Changes" comment="" />
+      <created>1688184148661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688184148661</updated>
+      <workItem from="1688184150032" duration="44000" />
+      <workItem from="1688184204334" duration="4364000" />
+      <workItem from="1688275026578" duration="3084000" />
+      <workItem from="1688298807723" duration="4907000" />
+      <workItem from="1688321041906" duration="6428000" />
+      <workItem from="1688346717041" duration="3758000" />
+      <workItem from="1688497597859" duration="7010000" />
+      <workItem from="1688505517578" duration="989000" />
+      <workItem from="1688506517669" duration="338000" />
+      <workItem from="1688506866306" duration="66000" />
+      <workItem from="1688508215004" duration="2151000" />
+      <workItem from="1688519247278" duration="5263000" />
+      <workItem from="1688581894444" duration="6314000" />
+      <workItem from="1688596508783" duration="8766000" />
+      <workItem from="1688615392124" duration="1586000" />
+      <workItem from="1688750376251" duration="3573000" />
+      <workItem from="1688755718741" duration="16731000" />
+      <workItem from="1688836466972" duration="371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
