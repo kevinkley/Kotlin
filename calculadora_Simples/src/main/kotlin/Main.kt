@@ -1,8 +1,8 @@
-fun velocidade(num: int, num2: int): int{
+fun velocidade(num: Int, num2: Int): Int{
     return num + num2
 }
 
 fun main(args: Array<String>) {
-    val nome: string = "kevin kleyy"
+    val nome: String = "kevin kleyy"
     println("My name is: ${nome}")
 }
