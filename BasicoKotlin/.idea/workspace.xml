@@ -5,55 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94594a8d-13bf-48e6-b5b5-d43e45851252" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Android_test_Rotas/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_test_Rotas/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Android_test_Rotas/app/src/main/java/teste/rotas/View/Home/tela.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_test_Rotas/app/src/main/java/teste/rotas/View/Home/tela.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Android_test_Rotas/app/src/main/res/drawable/Logo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../App_QRCODE/app/src/main/java/com/example/myapplication/View/Home/HomeScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../App_QRCODE/app/src/main/java/com/example/myapplication/View/Home/HomeScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../App_qrcode_xml/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../App_qrcode_xml/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../App_qrcode_xml/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../App_qrcode_xml/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/java/com/example/myapplication/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/java/com/example/myapplication/ui/theme/Color.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/java/com/example/myapplication/ui/theme/Theme.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/java/com/example/myapplication/ui/theme/Type.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compose_android/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KotlinBasico/.idea/KotlinBasico.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KotlinBasico/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KotlinBasico/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KotlinBasico/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KotlinBasico/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KotlinBasico/KotlinBasico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projeto_Compose/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../android_kt/untitled/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../android_kt/untitled/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/Anotações.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/Main/controledecolunas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/Main/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/Main/img/foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/Main/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/Main/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/Main/mainVps4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/Main/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/Site 2.0/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/Site 2.0/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/botão(treino)/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel e duas imagens maiores/carrossel2.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel e duas imagens maiores/img/carrossel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel e duas imagens maiores/img/carrossel2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel e duas imagens maiores/img/carrossel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel e duas imagens maiores/img/carrossel3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel e duas imagens maiores/img/logo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel estatico de 2 colunas/img/carrossel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel estatico de 2 colunas/img/carrossel2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel estatico de 2 colunas/img/carrossel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel estatico de 2 colunas/img/carrossel3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel estatico de 2 colunas/img/logo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel estatico de 2 colunas/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel estatico de 2 colunas/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel grande movel/carrossel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel grande movel/carrosselGrande.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel grande movel/img/carrossel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel grande movel/img/carrossel2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel grande movel/img/carrossel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel grande movel/img/carrossel3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/carrossel grande movel/img/logo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/mini carrossel e duas janelas/carrossel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/mini carrossel e duas janelas/carrossel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/mini carrossel e duas janelas/img/carrossel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/mini carrossel e duas janelas/img/carrossel2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/mini carrossel e duas janelas/img/carrossel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/mini carrossel e duas janelas/img/carrossel3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/carrosseis/mini carrossel e duas janelas/img/logo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/idex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/paralax/img/foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/paralax/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/paralax/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/site/img/img.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/tabela(Treino/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template_padrao/textos/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,22 +78,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/kevin/Documentos/GITHUB/kotlin/BasicoKotlin&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/kevin/Documentos/GITHUB/Kotlin/FuncaoKotlin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin/ClasseModificadoresAcesso" />
@@ -175,6 +174,7 @@
       <workItem from="1688615392124" duration="1586000" />
       <workItem from="1688750376251" duration="3573000" />
       <workItem from="1688755718741" duration="16731000" />
+      <workItem from="1689026230656" duration="109000" />
     </task>
     <servers />
   </component>
