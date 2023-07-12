@@ -1,6 +1,6 @@
 package FuncoesInline
 
-fun main(){
+fun main() {
     val resultado = calcula(10, 20)
     println(resultado)
 }
