@@ -1,4 +1,4 @@
-package Condicionais
+package Condicionais.If_e_Else
 
 
 val valor = readLine().toBoolean()
