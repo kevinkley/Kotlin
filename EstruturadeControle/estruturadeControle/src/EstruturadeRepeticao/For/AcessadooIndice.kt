@@ -1,4 +1,4 @@
-package ControledeFluxo
+package EstruturadeRepeticao.For
 
 fun main(){
     val lista = listOf("João", "Maria", "Pedro")

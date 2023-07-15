@@ -1,4 +1,4 @@
-package ControledeFluxo
+package EstruturadeRepeticao.For
 
 fun main(){
 
