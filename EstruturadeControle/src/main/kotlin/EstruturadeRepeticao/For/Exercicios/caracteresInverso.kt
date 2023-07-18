@@ -3,12 +3,14 @@ package EstruturadeRepeticao.For.Exercicios
 import java.util.*
 
 fun main(){
-    caracteresInverso()
+    /*caracteresInverso()
 
     val lista = intArrayOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
     val soma = lista.average()
     println(soma)
+*/
 }
+
 
 fun caracteresInverso(){
     val texto = "kotlin".reversed()
