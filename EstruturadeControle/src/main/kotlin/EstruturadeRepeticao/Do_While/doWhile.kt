@@ -5,9 +5,6 @@ fun main(){
     /*val cpf2 = 123
 
     do{
-        val dado = dados("kevin", 123, 18)
-        dado.nome
-
         "Digite seu nome, cpf e idade:"
         val nome = "kevin"
         val cpf = readln().toInt()
@@ -23,16 +20,34 @@ fun main(){
             println("-----------------------------")
     }while(cpf != cpf2)*/
 
-
-    println("Digite seu nome:")
-    val nome = readln().lowercase()
-    receber(nome)
+    doWhile()
 }
 
+fun doWhile(){
+    val cpfUser = 123
+    var pontos = 0
 
-fun receber(nome: String) = when(nome){
-    "kevin" -> println("Nome: $nome")
-    "ana" -> println("Nome: $nome")
-    else -> {
-        println("Error")}
+    saida@do{
+        println("Digite seu cpf:")
+        val cpf = readLine()?.toIntOrNull()
+
+        if(cpf == cpfUser){
+            println("Login efetuado com sucesso")
+            pontos++
+        }else{
+            println("Login errado")
+            pontos--
+
+            println("soma dos $pontos")
+
+            if(pontos == -2){
+                println("-----------------------------")
+                println("Atingiu o limite de tentativas negativas")
+                break@saida
+            }
+
+            println("Tente novamente")
+        }
+        println("-----------------------------")
+    }while(cpf != cpfUser)
 }
