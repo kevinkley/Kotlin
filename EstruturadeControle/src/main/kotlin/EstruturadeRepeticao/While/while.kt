@@ -10,7 +10,7 @@ fun main() {
     do{
         var soma = 0
 
-        println("Digite um operador: ")
+        println("Digite um operador:s ")
         operador = readln()
 
         if(operador == "+"){
